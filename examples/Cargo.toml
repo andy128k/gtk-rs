@@ -32,6 +32,9 @@ optional = true
 path = "../gio"
 
 [[bin]]
+name = "actions"
+
+[[bin]]
 name = "cairo_png"
 required-features = ["cairo"]
 
